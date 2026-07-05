@@ -1,5 +1,7 @@
 # README.md
+
 100Hires - junior growth marketing specialist
+
 # Portfolio Project Setup
 
 ## Candidate
@@ -12,7 +14,7 @@
 
 ## Objective
 
-This repository documents the setup process requested as part of the hiring process for 100Hires.
+This repository documents the installation, configuration, and verification of the required development tools as part of the portfolio project assignment for the Junior Growth Marketing Specialist position at 100Hires.
 
 ---
 
@@ -59,16 +61,20 @@ I explored the IDE, followed the documentation, and successfully completed all t
 
 ## Skills Demonstrated
 
-- AI tool setup
-- Cursor IDE
-- Git
-- GitHub
+- AI-assisted development environment setup
+- Cursor IDE configuration
+- Git version control
+- GitHub repository management
 - Markdown documentation
-- Problem solving
-- Learning new tools quickly
+- Problem-solving
+- Adaptability and rapid learning
 
 ---
 
 ## Status
 
 ✅ Portfolio setup completed successfully.
+
+## Conclusion
+
+This project demonstrates my ability to quickly learn new tools, follow technical instructions accurately, and document my work in a structured manner. Although my professional background is in Digital Marketing, I successfully completed the required technical setup and gained hands-on experience with AI-powered development tools.
